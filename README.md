@@ -19,19 +19,10 @@ Deploy dalam hitungan detik ke Cloudflare Workers tanpa perlu VPS atau server ta
 
 ## 🛠️ Features
 ✅ **Multiple Protocols** - Mendukung **VLESS**, **Trojan**, dan **Shadowsocks**.<br>
-✅ **Cloudflare Acceleration** - Performa tinggi dengan proteksi Cloudflare.<br>
-✅ **Easy URL Subscription** - Integrasi mudah dengan berbagai klien VPN.<br>
-✅ **Enhanced Privacy & Security** - Enkripsi canggih untuk menjaga privasi pengguna.<br>
+
 
 ## 📌 Disclaimer
 InconigtoVPN dibuat untuk tujuan edukasi dan riset. Pengguna bertanggung jawab penuh atas penggunaan layanan ini.
-
-## 📌 Notes
-Sesuaikan **wrangler.toml**
-Hapus Bagian Routes
-
-*routes = [
-]*
 
 ---
 
